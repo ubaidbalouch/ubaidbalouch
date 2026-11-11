@@ -1,16 +1,98 @@
-## Hi there 👋
+# Hi, I'm Ubaid Ur Rehman 👋
 
-<!--
-**ubaidbalouch/ubaidbalouch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###  QA Automation Engineer | BS Artificial Intelligence Student
 
-Here are some ideas to get you started:
+I'm an Artificial Intelligence undergraduate interested in **Software Quality Assurance, Test Automation, and Software Reliability**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My focus is on understanding application behavior, identifying defects, validating data, and building reliable automated testing solutions.
+
+I believe quality is not just about finding bugs — it's about preventing them and delivering software users can trust.
+
+---
+
+### 🎯 Current Focus
+
+- Software Testing Fundamentals and Test Design Techniques
+- Python Programming and Problem Solving
+- Manual Testing and Professional Bug Reporting
+- API Testing with Postman and Python
+- UI Automation with Playwright, pytest, and Selenium
+- SQL and Database Testing
+- Git, GitHub Actions, and CI/CD
+- Performance Testing with Apache JMeter
+
+---
+
+### 🛠️ Technologies & Tools
+
+**Programming**
+- Python
+
+**Manual & Software Testing**
+- Test Case Design
+- Test Planning and Bug Reporting
+- Functional, Regression, and Exploratory Testing
+- Smoke and Sanity Testing
+
+**Test Automation**
+- Playwright
+- Selenium
+- pytest
+
+**API Testing**
+- Postman
+- Python Requests
+- Newman
+
+**Database & SQL**
+- SQL
+- Database Queries and Data Validation
+
+**Performance Testing**
+- Apache JMeter
+
+**Development & Workflow**
+- Git & GitHub
+- GitHub Actions
+- FastAPI
+- SQL
+  
+**CI/CD & DevOps**
+- GitHub Actions
+- CI/CD Pipelines
+---
+
+### 💻 Practical Experience
+
+- Hands-on application testing and defect reporting.
+- Software installation, configuration, and troubleshooting.
+- Testing application workflows and field validations.
+- Investigating database-related issues and data inconsistencies.
+- Writing reproducible bug reports with supporting evidence.
+
+--
+
+### 🎓 Education
+
+**Bachelor of Science in Artificial Intelligence**  
+The Islamia University of Bahawalpur (IUB)  
+
+---
+
+### 📈 Career Goal
+
+My goal is to become a professional **QA Automation Engineer** with the ability to design maintainable automation frameworks, validate APIs and databases, test web applications, and integrate automated tests into CI/CD pipelines.
+
+I'm continuously learning, building practical projects, and improving my software testing skills.
+
+---
+
+### 🤝 Let's Connect
+
+I'm interested in connecting with QA Engineers, SDET professionals, Software Developers, and technology enthusiasts.
+
+**GitHub:** [@ubaidbalouch](https://github.com/ubaidbalouch)
+
+---
+
+*Work hard. Stay humble.*
