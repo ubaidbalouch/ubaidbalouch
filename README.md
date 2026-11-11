@@ -1,6 +1,6 @@
 # Hi, I'm Ubaid Ur Rehman 👋
 
-###  QA Automation Engineer | BS Artificial Intelligence Student
+###  QA Automation Engineer 
 
 I'm an Artificial Intelligence undergraduate interested in **Software Quality Assurance, Test Automation, and Software Reliability**.
 
