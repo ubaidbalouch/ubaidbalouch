@@ -97,6 +97,8 @@ I'm continuously learning, building practical projects, and improving my softwar
 I'm interested in connecting with QA Engineers, SDET professionals, Software Developers, and technology enthusiasts.
 
 **GitHub:** [@ubaidbalouch](https://github.com/ubaidbalouch)
+**E-mail:** uu.rehman903@gmail.com
+**Linkedin:** [@ubaid-ur-rehman](https://www.linkedin.com/in/ubaid-ur-rehman-11012244b/)
 
 ---
 
