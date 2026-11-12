@@ -46,7 +46,8 @@ I believe quality is not just about finding bugs — it's about preventing them 
 
 **Database & SQL**
 - SQL
-- Database Queries and Data Validation
+- Data Validation
+- Database Testing
 
 **Performance Testing**
 - Apache JMeter
