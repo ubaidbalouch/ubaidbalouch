@@ -60,6 +60,10 @@ I believe quality is not just about finding bugs — it's about preventing them 
 **CI/CD & DevOps**
 - GitHub Actions
 - CI/CD Pipelines
+- Docker
+
+### Cloud & Infrastructure
+- Amazon Web Services (AWS)
 ---
 
 ### 💻 Practical Experience
